@@ -47,10 +47,11 @@ Sou apaixonado por tecnologia, adoro ter ideias e vê-las funcionando de verdade
 
 ### 💬 Contato:
 <a href="mailto:contato.mikaelsilvasousa@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/contato.mikaelsilvasousa@gmail.com-000000?style=plastic&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/mikael-silva-sousa" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/mika.siilv" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/@mika.siilv-000000?style=plastic&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
----
